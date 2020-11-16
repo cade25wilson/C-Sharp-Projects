@@ -1,0 +1,7 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\userInput\userInput\bin\Debug\userInput.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\userInput\userInput\bin\Debug\userInput.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\userInput\userInput\bin\Debug\userInput.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\userInput\userInput\obj\Debug\userInput.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\userInput\userInput\obj\Debug\userInput.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\userInput\userInput\obj\Debug\userInput.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\userInput\userInput\obj\Debug\userInput.pdb
