@@ -1,0 +1,6 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\annonIncomeComparison\annonIncomeComparison\bin\Debug\annonIncomeComparison.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\annonIncomeComparison\annonIncomeComparison\bin\Debug\annonIncomeComparison.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\annonIncomeComparison\annonIncomeComparison\bin\Debug\annonIncomeComparison.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\annonIncomeComparison\annonIncomeComparison\obj\Debug\annonIncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\annonIncomeComparison\annonIncomeComparison\obj\Debug\annonIncomeComparison.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\annonIncomeComparison\annonIncomeComparison\obj\Debug\annonIncomeComparison.pdb
