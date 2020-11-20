@@ -1,0 +1,14 @@
+C:\Users\New Owner\source\repos\boolAssignment\boolAssignment\bin\Debug\boolAssignment.exe.config
+C:\Users\New Owner\source\repos\boolAssignment\boolAssignment\bin\Debug\boolAssignment.exe
+C:\Users\New Owner\source\repos\boolAssignment\boolAssignment\bin\Debug\boolAssignment.pdb
+C:\Users\New Owner\source\repos\boolAssignment\boolAssignment\obj\Debug\boolAssignment.csprojAssemblyReference.cache
+C:\Users\New Owner\source\repos\boolAssignment\boolAssignment\obj\Debug\boolAssignment.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\source\repos\boolAssignment\boolAssignment\obj\Debug\boolAssignment.exe
+C:\Users\New Owner\source\repos\boolAssignment\boolAssignment\obj\Debug\boolAssignment.pdb
+C:\Users\New Owner\Desktop\C-Sharp-Projects\boolAssignment\boolAssignment\bin\Debug\boolAssignment.exe.config
+C:\Users\New Owner\Desktop\C-Sharp-Projects\boolAssignment\boolAssignment\bin\Debug\boolAssignment.exe
+C:\Users\New Owner\Desktop\C-Sharp-Projects\boolAssignment\boolAssignment\bin\Debug\boolAssignment.pdb
+C:\Users\New Owner\Desktop\C-Sharp-Projects\boolAssignment\boolAssignment\obj\Debug\boolAssignment.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\C-Sharp-Projects\boolAssignment\boolAssignment\obj\Debug\boolAssignment.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\C-Sharp-Projects\boolAssignment\boolAssignment\obj\Debug\boolAssignment.exe
+C:\Users\New Owner\Desktop\C-Sharp-Projects\boolAssignment\boolAssignment\obj\Debug\boolAssignment.pdb
