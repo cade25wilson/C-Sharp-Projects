@@ -1,0 +1,7 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\arraysAssignment\arraysAssignment\bin\Debug\arraysAssignment.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\arraysAssignment\arraysAssignment\bin\Debug\arraysAssignment.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\arraysAssignment\arraysAssignment\bin\Debug\arraysAssignment.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\arraysAssignment\arraysAssignment\obj\Debug\arraysAssignment.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\arraysAssignment\arraysAssignment\obj\Debug\arraysAssignment.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\arraysAssignment\arraysAssignment\obj\Debug\arraysAssignment.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\arraysAssignment\arraysAssignment\obj\Debug\arraysAssignment.pdb
