@@ -1,0 +1,7 @@
+C:\Users\New Owner\source\repos\packageExpress\packageExpress\bin\Debug\packageExpress.exe.config
+C:\Users\New Owner\source\repos\packageExpress\packageExpress\bin\Debug\packageExpress.exe
+C:\Users\New Owner\source\repos\packageExpress\packageExpress\bin\Debug\packageExpress.pdb
+C:\Users\New Owner\source\repos\packageExpress\packageExpress\obj\Debug\packageExpress.csprojAssemblyReference.cache
+C:\Users\New Owner\source\repos\packageExpress\packageExpress\obj\Debug\packageExpress.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\source\repos\packageExpress\packageExpress\obj\Debug\packageExpress.exe
+C:\Users\New Owner\source\repos\packageExpress\packageExpress\obj\Debug\packageExpress.pdb
