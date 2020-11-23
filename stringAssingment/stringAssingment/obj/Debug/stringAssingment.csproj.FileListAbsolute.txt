@@ -1,0 +1,6 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\stringAssingment\stringAssingment\obj\Debug\stringAssingment.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\stringAssingment\stringAssingment\bin\Debug\stringAssingment.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\stringAssingment\stringAssingment\bin\Debug\stringAssingment.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\stringAssingment\stringAssingment\bin\Debug\stringAssingment.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\stringAssingment\stringAssingment\obj\Debug\stringAssingment.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\stringAssingment\stringAssingment\obj\Debug\stringAssingment.pdb
