@@ -5,3 +5,10 @@ C:\Users\New Owner\Desktop\Basic_C#_Programs\instantiation\instantiation\obj\Deb
 C:\Users\New Owner\Desktop\Basic_C#_Programs\instantiation\instantiation\obj\Debug\instantiation.csproj.CoreCompileInputs.cache
 C:\Users\New Owner\Desktop\Basic_C#_Programs\instantiation\instantiation\obj\Debug\instantiation.exe
 C:\Users\New Owner\Desktop\Basic_C#_Programs\instantiation\instantiation\obj\Debug\instantiation.pdb
+C:\Users\New Owner\Desktop\C-Sharp-Projects\sixPartAssignment\instantiation\bin\Debug\instantiation.exe.config
+C:\Users\New Owner\Desktop\C-Sharp-Projects\sixPartAssignment\instantiation\bin\Debug\instantiation.exe
+C:\Users\New Owner\Desktop\C-Sharp-Projects\sixPartAssignment\instantiation\bin\Debug\instantiation.pdb
+C:\Users\New Owner\Desktop\C-Sharp-Projects\sixPartAssignment\instantiation\obj\Debug\instantiation.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\C-Sharp-Projects\sixPartAssignment\instantiation\obj\Debug\instantiation.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\C-Sharp-Projects\sixPartAssignment\instantiation\obj\Debug\instantiation.exe
+C:\Users\New Owner\Desktop\C-Sharp-Projects\sixPartAssignment\instantiation\obj\Debug\instantiation.pdb

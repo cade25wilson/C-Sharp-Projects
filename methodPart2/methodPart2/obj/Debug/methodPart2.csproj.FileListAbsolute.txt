@@ -1,0 +1,7 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart2\methodPart2\bin\Debug\methodPart2.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart2\methodPart2\bin\Debug\methodPart2.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart2\methodPart2\bin\Debug\methodPart2.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart2\methodPart2\obj\Debug\methodPart2.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart2\methodPart2\obj\Debug\methodPart2.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart2\methodPart2\obj\Debug\methodPart2.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart2\methodPart2\obj\Debug\methodPart2.pdb
