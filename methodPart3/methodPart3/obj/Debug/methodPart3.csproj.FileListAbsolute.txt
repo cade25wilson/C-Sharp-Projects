@@ -1,7 +1,0 @@
-C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart3\methodPart3\bin\Debug\methodPart3.exe.config
-C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart3\methodPart3\bin\Debug\methodPart3.exe
-C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart3\methodPart3\bin\Debug\methodPart3.pdb
-C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart3\methodPart3\obj\Debug\methodPart3.csprojAssemblyReference.cache
-C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart3\methodPart3\obj\Debug\methodPart3.csproj.CoreCompileInputs.cache
-C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart3\methodPart3\obj\Debug\methodPart3.exe
-C:\Users\New Owner\Desktop\Basic_C#_Programs\methodPart3\methodPart3\obj\Debug\methodPart3.pdb
