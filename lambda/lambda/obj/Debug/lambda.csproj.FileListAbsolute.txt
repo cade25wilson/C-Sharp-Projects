@@ -1,0 +1,7 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\lambda\lambda\bin\Debug\lambda.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\lambda\lambda\bin\Debug\lambda.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\lambda\lambda\bin\Debug\lambda.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\lambda\lambda\obj\Debug\lambda.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\lambda\lambda\obj\Debug\lambda.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\lambda\lambda\obj\Debug\lambda.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\lambda\lambda\obj\Debug\lambda.pdb
