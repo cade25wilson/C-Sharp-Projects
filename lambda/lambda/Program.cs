@@ -19,15 +19,15 @@ namespace lambda
             list.Add(new Employee("Gabe", "Robinson", 5));
             list.Add(new Employee("Duncan", "Silva", 6));
             list.Add(new Employee("Joe", "WhiteSide", 7));
-
+            // using loop to add employee named joe to a list
             List<Employee> joe = new List<Employee>();
             foreach (Employee emp in list)
                 if (emp.FirstName.Equals("Joe"))
                     joe.Add(emp);
-
+            //getting each employee named joe adding it to list
             joe.Clear();
             list.ForEach(i => { if (i.FirstName.Equals("Joe")) joe.Add(i); });
-
+            //Displaying Lambda function
             Console.WriteLine("The Joes List: ");
             foreach (Employee emp in joe)
                 emp.SayName();
