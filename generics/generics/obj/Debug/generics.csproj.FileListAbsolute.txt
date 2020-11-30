@@ -1,0 +1,7 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\generics\generics\bin\Debug\generics.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\generics\generics\bin\Debug\generics.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\generics\generics\bin\Debug\generics.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\generics\generics\obj\Debug\generics.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\generics\generics\obj\Debug\generics.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\generics\generics\obj\Debug\generics.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\generics\generics\obj\Debug\generics.pdb
