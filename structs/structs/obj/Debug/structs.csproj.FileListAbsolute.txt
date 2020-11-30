@@ -1,0 +1,7 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\structs\structs\bin\Debug\structs.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\structs\structs\bin\Debug\structs.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\structs\structs\bin\Debug\structs.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\structs\structs\obj\Debug\structs.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\structs\structs\obj\Debug\structs.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\structs\structs\obj\Debug\structs.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\structs\structs\obj\Debug\structs.pdb
