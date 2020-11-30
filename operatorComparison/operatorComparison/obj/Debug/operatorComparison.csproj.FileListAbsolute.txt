@@ -1,0 +1,7 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\operatorComparison\operatorComparison\bin\Debug\operatorComparison.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\operatorComparison\operatorComparison\bin\Debug\operatorComparison.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\operatorComparison\operatorComparison\bin\Debug\operatorComparison.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\operatorComparison\operatorComparison\obj\Debug\operatorComparison.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\operatorComparison\operatorComparison\obj\Debug\operatorComparison.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\operatorComparison\operatorComparison\obj\Debug\operatorComparison.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\operatorComparison\operatorComparison\obj\Debug\operatorComparison.pdb
