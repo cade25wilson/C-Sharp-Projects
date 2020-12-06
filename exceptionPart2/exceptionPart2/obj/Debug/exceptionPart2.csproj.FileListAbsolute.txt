@@ -1,0 +1,7 @@
+C:\Users\New Owner\Desktop\Basic_C#_Programs\exceptionPart2\exceptionPart2\bin\Debug\exceptionPart2.exe.config
+C:\Users\New Owner\Desktop\Basic_C#_Programs\exceptionPart2\exceptionPart2\bin\Debug\exceptionPart2.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\exceptionPart2\exceptionPart2\bin\Debug\exceptionPart2.pdb
+C:\Users\New Owner\Desktop\Basic_C#_Programs\exceptionPart2\exceptionPart2\obj\Debug\exceptionPart2.csprojAssemblyReference.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\exceptionPart2\exceptionPart2\obj\Debug\exceptionPart2.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Desktop\Basic_C#_Programs\exceptionPart2\exceptionPart2\obj\Debug\exceptionPart2.exe
+C:\Users\New Owner\Desktop\Basic_C#_Programs\exceptionPart2\exceptionPart2\obj\Debug\exceptionPart2.pdb
