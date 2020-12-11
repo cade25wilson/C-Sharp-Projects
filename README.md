@@ -2,7 +2,7 @@
 Projects while attending the Tech Academy made using C# 
 
 <h1>Projects</h1>
-<a href="https://github.com/cade25wilson/C-Sharp-Projects/tree/main/CarInsurance">
+<a href="https://github.com/cade25wilson/C-Sharp-Projects/tree/main/CarInsurance">Car Insurance Application</a></br>
 <a href="https://github.com/cade25wilson/C-Sharp-Projects/tree/main/ConsoleApp1">
 <a href="https://github.com/cade25wilson/C-Sharp-Projects/tree/main/DailyReport">
 <a href="https://github.com/cade25wilson/C-Sharp-Projects/tree/main/HelloWorld">
