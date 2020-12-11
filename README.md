@@ -38,35 +38,67 @@ Projects while attending the Tech Academy made using C#
 
 
 <h3>Car Insurance App</h3>
+Application to create a quote for car insurance
 <h3>Console App</h3>
+Using code first approach to create a database entry
 <h3>Daily Report</h3>
+Student Daily Report
 <h3>Hello World</h3>
+Using escape characters in C#
 <h3>Method 4</h3>
+Taking two user inputs and dividing them
 <h3>Web Application</h3>
+Showing server datetime using .net web application
 <h3>Abstract Method</h3>
+Creating classes to use abstract methods
 <h3>Income Comparison</h3>
+Comparing Income from 2 users
 <h3>Arrays</h3>
+Taking user input and returning a value in an array
 <h3>Bools</h3>
+Comparing bools to check if user is qualified for car insurance
 <h3>Bool Comparison</h3>
+Using bools in a comparison to return true
 <h3>Constructor Chaining</h3>
+Using constructor chaining in classes to return a new employee
 <h3>Date Time</h3>
+Using the Date time method to show what the time will be based on user input
 <h3>Enums</h3>
+Using Enum instead of list or array to return day of the week
 <h3>Exceptions</h3>
+Using try catch blocks to check for exceptions
 <h3>Exception Part 2</h3>
+Checking for exceptions and returning when user was born
 <h3>FileIO</h3>
+Using StreamWriter to append text files
 <h3>TwentyOneGame</h3>
+A game of Twenty One
 <h3>Generics</h3>
+Using generics to return strings and ints
 <h3>Interface</h3>
+Using interface to return employee who left company
 <h3>Lambda</h3>
+Using Lambda functions to reduce code
 <h3>Method 1</h3>
+Doing math operations on user input
 <h3>Method Overload</h3>
+Using classes to create method overloads
 <h3>Method Part 2</h3>
+Taking one or two inputs and performing math operations on them
 <h3>Methods</h3>
+Performing math operations based on user input
 <h3>Operator Comparison</h3>
+Comparing if Employees are the same
 <h3>Package Express</h3>
+Checking if you are able to ship a package and returning a quote
 <h3>Six Part Assignment</h3>
+Performing multiple C# operatiosn
 <h3>Strings</h3>
+Using Stringbuilder to create strings
 <h3>Structs</h3>
+Using structs
 <h3>SuperClass</h3>
+Using Superclass method to return employee name
 <h3>User Input</h3>
+Demonstrating how C# can take user input and perform operations on them
 
