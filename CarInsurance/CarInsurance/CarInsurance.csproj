@@ -128,7 +128,6 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InsureeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -217,6 +216,7 @@
     <Content Include="Views\Insuree\Details.cshtml" />
     <Content Include="Views\Insuree\Edit.cshtml" />
     <Content Include="Views\Insuree\Index.cshtml" />
+    <Content Include="Views\Insuree\Breakdown.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

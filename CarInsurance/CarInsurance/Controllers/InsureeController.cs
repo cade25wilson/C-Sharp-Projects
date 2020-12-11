@@ -40,7 +40,8 @@ namespace CarInsurance.Controllers
         {
             return View();
         }
-        public ActionResult Admin(int? id)
+
+        public ActionResult Breakdown(int? id)
         {
             if (id == null)
             {
@@ -130,7 +131,7 @@ namespace CarInsurance.Controllers
                 //Coverage
                 if (insuree.CoverageType == true)
                 {
-                    initial += initial / 4;
+                    initial += initial / 2;
                     yearlyTotal = initial * 12;
                     insuree.Quote = yearlyTotal;
                 }
@@ -206,6 +207,11 @@ namespace CarInsurance.Controllers
             db.Insurees.Remove(insuree);
             db.SaveChanges();
             return RedirectToAction("Index");
+        }
+
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
         }
 
         protected override void Dispose(bool disposing)
