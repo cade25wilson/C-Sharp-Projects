@@ -1,18 +1,38 @@
-﻿namespace bankProgram.Models
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
+
+#nullable disable
+
+namespace BankProgram1.Models
 {
-    public class Account
+    [Table("Account")]
+    public partial class Account
     {
-        public enum accountType
+        public Account()
         {
-            Savings, Checking
+            Transfers = new HashSet<Transfer>();
         }
 
+        [Key]
         public int Id { get; set; }
-        public int accountOwner { get; set; }
-        public accountType Type { get; set; }
-        public string accountName { get; set; }
-        public decimal beginningBalance { get; set; }
-        public decimal balance { get; }
+        [Required]
+        [StringLength(450)]
+        public string AccountOwner { get; set; }
+        [Required]
+        [StringLength(10)]
+        public string AccountType { get; set; }
+        [Column(TypeName = "decimal(18, 2)")]
+        public decimal? BeginningBalance { get; set; }
+        [Column(TypeName = "decimal(18, 2)")]
+        public decimal CurrentBalance { get; set; }
 
+        [ForeignKey(nameof(AccountOwner))]
+        [InverseProperty(nameof(AspNetUser.Accounts))]
+        public virtual AspNetUser AccountOwnerNavigation { get; set; }
+        [InverseProperty(nameof(Transfer.ToAccountNavigation))]
+        public virtual ICollection<Transfer> Transfers { get; set; }
     }
 }
